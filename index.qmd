@@ -1,0 +1,7 @@
+---
+title: "website_quarto_redux"
+---
+
+Hello, I'm Ariel Xing. This is my Quarto website. 
+You can email me at ariel.xing@mail.utoronto.ca
+
